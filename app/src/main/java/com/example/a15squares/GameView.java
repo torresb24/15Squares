@@ -22,7 +22,7 @@ public class GameView extends SurfaceView implements View.OnClickListener, View.
 
 
         //Dynamically change game dimensions based off of screen data of device
-        //Used below link to learn how to do this
+        //Used below link to learn how to do this:
         //https://developer.android.com/reference/android/util/DisplayMetrics
         screenHeight = context.getResources().getDisplayMetrics().heightPixels;
         screenWidth = context.getResources().getDisplayMetrics().widthPixels;
