@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class Squares {
     //private variables
-    private Paint squareColor;
+    private Paint squareColor; //the square Color
     private float squareLength;
     private int squareNumber;
     private float xCoord;
